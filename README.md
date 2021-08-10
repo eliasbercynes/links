@@ -25,6 +25,11 @@
 <img width='20px' src='https://www.bugbountyhunter.com/assets/favicons/favicon.ico'>
 <a href='https://www.bugbountyhunter.com/getting-started/'>bug bounty</a> <br>
 
+<!-- road maps --> <hr>
 
+<img width='20px' src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png'>
+<a href='https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills//'>Top 10 Projects</a> <br>
 
+<img width='20px' src='https://miro.medium.com/fit/c/60/60/1*sHhtYhaCe2Uc3IU0IgKwIQ.png'>
+<a href='https://faithojeabulu.medium.com/10-algorithm-challenges-for-an-absolute-beginner-edd3b6ee5f13'>10 Algorithm</a> <br>
 
