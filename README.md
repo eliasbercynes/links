@@ -33,3 +33,25 @@
 <img width='20px' src='https://miro.medium.com/fit/c/60/60/1*sHhtYhaCe2Uc3IU0IgKwIQ.png'>
 <a href='https://faithojeabulu.medium.com/10-algorithm-challenges-for-an-absolute-beginner-edd3b6ee5f13'>10 Algorithm</a> <br>
 
+  
+<img width='20px' src='https://www.indiehackers.com/images/favicons/favicon--192x192.png'>
+<a href='https://www.indiehackers.com/start'>indeihackers</a> <br>
+   
+<!-- tools --> <hr>
+<img width='20px' src='https://www.notion.so/front-static/favicon.ico'>
+<a href='https://www.notion.so/'>notion map</a> <br>
+
+<img width='20px' src='https://static.canva.com/static/images/apple-touch-120x120.png'>
+<a href='https://www.canva.com'>canva</a> <br>
+ 
+<img width='20px' src='https://static.figma.com/app/icon/1/icon-192.png'>
+<a href='https://www.figma.com/'>figma</a> <br>
+  
+ 
+<img width='20px' src='https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d55951e4de4fb4722554d96_default_favicon.png'>
+<a href='https://webflow.com'>webflow</a> <br> 
+
+  
+
+ 
+
